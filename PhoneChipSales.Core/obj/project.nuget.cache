@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlnr1aMgzU8=",
+  "success": true,
+  "projectFilePath": "D:\\03-ESTUDO_TURBO\\00-Programacao\\CSharp\\ProtoBufTeste\\PhoneChipSales.Core\\PhoneChipSales.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vysku\\.nuget\\packages\\google.protobuf\\3.27.1\\google.protobuf.3.27.1.nupkg.sha512",
+    "C:\\Users\\vysku\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\vysku\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\vysku\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

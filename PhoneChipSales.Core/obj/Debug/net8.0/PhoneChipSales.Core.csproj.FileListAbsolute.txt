@@ -1,0 +1,12 @@
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.csproj.AssemblyReference.cache
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.AssemblyInfoInputs.cache
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.AssemblyInfo.cs
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.csproj.CoreCompileInputs.cache
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\bin\Debug\net8.0\PhoneChipSales.Core.deps.json
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\bin\Debug\net8.0\PhoneChipSales.Core.dll
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\bin\Debug\net8.0\PhoneChipSales.Core.pdb
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.dll
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\refint\PhoneChipSales.Core.dll
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\PhoneChipSales.Core.pdb
+D:\03-ESTUDO_TURBO\00-Programacao\CSharp\ProtoBufTeste\PhoneChipSales.Core\obj\Debug\net8.0\ref\PhoneChipSales.Core.dll
